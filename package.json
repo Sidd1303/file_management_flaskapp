@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/x-data-grid": "^7.22.3",
+    "react-dropzone": "^14.3.5"
+  }
+}
